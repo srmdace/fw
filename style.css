@@ -235,8 +235,10 @@ margin-left: 5%;
     height: 500px;
     display: flex;
     justify-content: center;
+    text-align: center;
     border-radius: 5%;
     font-size: 1.5em;
+   
    
 }
 .video{
@@ -250,4 +252,9 @@ color: white;
 }
 .colorwhite_red:hover{
     color: red;
+}
+.ahist
+{
+    margin-left: 2%;
+ 
 }
